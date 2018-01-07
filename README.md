@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+just do some testing in apps
+my name is dee, and i am a MSBA learner.
